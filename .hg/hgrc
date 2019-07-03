@@ -1,0 +1,5 @@
+[ui]
+# name and email (local to this repository, optional), e.g.
+username = Clover8Cloud <lyx@mail.hfut.edu.cn>
+[extensions]
+hgext.mq=
